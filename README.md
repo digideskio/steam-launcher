@@ -29,4 +29,4 @@ wget https://raw.githubusercontent.com/drakofrost/steam-launcher/master/install.
 sudo bash install.sh
 ```
 
-After the installation is complete, Steam Launcher will be available under the "Games" section of your desktop environment.
+After the installation is complete, Steam Launcher will be available under the "Games" section of your desktop environment. If the shortcut doesn't appear in Unity, logout of your current session.
