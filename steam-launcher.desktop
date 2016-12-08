@@ -6,4 +6,4 @@ Exec=/opt/steam-launcher/steam-launcher.sh
 Icon=/opt/steam-launcher/steam-launcher.png
 Terminal=false
 Type=Application
-Categories=Games;
+Categories=Game;
