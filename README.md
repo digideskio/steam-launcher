@@ -14,7 +14,7 @@ Steam ships a set of libraries called Steam Runtime, they are designed to provid
 ## Disclaimer
 
 Steam Launcher was designed and tested on Ubuntu 16.04, it will also work with any of the Ubuntu Flavours. The utility was not tested in other distributions, but should, in theory, work.
-I'm not responsible for any "damages" that this utility may cause to your Steam installation.
+Steam Launcher is provided as is, I'm not responsible for any "damages" that this utility may cause to your Steam installation.
 
 
 ##Requirements
@@ -32,3 +32,10 @@ sudo bash install.sh
 ```
 
 After the installation is complete, Steam Launcher will be available under the "Games" section of your desktop environment. If the shortcut doesn't appear in Unity, logout of your current session.
+
+
+## Legal notice
+
+Steam Launcher is distributed under the [GPLv3] (https://www.gnu.org/licenses/gpl-3.0.en.html) license.
+
+The icon used by Steam Launcher was made by [FroyoShark] (http://www.iconarchive.com/show/enkel-icons-by-froyoshark/Steam-icon.html), and distributed under the CC Attribution 4.0 license.
