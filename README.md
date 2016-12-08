@@ -25,7 +25,7 @@ The only requirement is Zenity, which is already installed on Ubuntu. If you are
 Launch the terminal and paste the following commands:
 
 ```
-wget https://github.com/drakofrost/steam-launcher/blob/master/install.sh
+wget https://raw.githubusercontent.com/drakofrost/steam-launcher/master/install.sh
 sudo bash install.sh
 ```
 
