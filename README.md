@@ -38,4 +38,4 @@ After the installation is complete, Steam Launcher will be available under the "
 
 Steam Launcher is distributed under the [GPLv3] (https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
-The icon used by Steam Launcher was made by [FroyoShark] (http://www.iconarchive.com/show/enkel-icons-by-froyoshark/Steam-icon.html), and distributed under the CC Attribution 4.0 license.
+The icon used by Steam Launcher was made by [FroyoShark] (http://www.iconarchive.com/show/enkel-icons-by-froyoshark/Steam-icon.html), and distributed under the [CC BY 4.0] (https://creativecommons.org/licenses/by/4.0/) license.
