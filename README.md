@@ -11,13 +11,13 @@ Steam ships a set of libraries called Steam Runtime, they are designed to provid
 
 ## Disclaimer
 
-Steam Launcher was designed and tested on Ubuntu 16.04, it will also work with any of the Ubuntu Flavours. The application was not tested in other distributions, but should, in theory, work.
-I'm not responsible for any "damages" that this application may cause to your Steam installation.
+Steam Launcher was designed and tested on Ubuntu 16.04, it will also work with any of the Ubuntu Flavours. The utility was not tested in other distributions, but should, in theory, work.
+I'm not responsible for any "damages" that this utility may cause to your Steam installation.
 
 
 ##Requirements
 
-The only requirement is Zenity, which is already installed on Ubuntu. If you are trying to run this application in another distribution, you can search for the "zenity" package in your distro's repository.
+The only requirement is Zenity, which is already installed on Ubuntu. If you are trying to run this utility in another distribution, you can search for the "zenity" package in your distro's repository.
 
 
 ## Installation
