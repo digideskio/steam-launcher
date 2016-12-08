@@ -4,7 +4,7 @@ Steam Launcher is a utility designed to solve common issues that affects Steam o
 
 ![alt tag] (https://github.com/drakofrost/steam-launcher/raw/master/screenshot.png)
 
-Steam ships a set of libraries called Steam Runtime, they are designed to provide the necessary structure to run Steam and the games published there, however, those libraries are usually outdated, which causes conflict with the system libraries. This affects users that rely on open source graphic drivers, causing all sorts of erros when trying to launch Steam, or play games. This utility provides a GUI (Graphical User Interface), that acts as a launcher (hence the name), it gives the user three options:
+Steam ships a set of libraries called Steam Runtime, they are designed to provide the necessary structure to run Steam and the games published there, however, those libraries are usually outdated, which causes conflict with the system libraries. This affects users that rely on open source graphics driver, causing all sorts of erros when trying to launch Steam, or play games. This utility provides a GUI (Graphical User Interface), that acts as a launcher (hence the name), it gives the user three options:
 
 - The possibility to override the Steam Runtime, and make use of the system libraries;
 - The ability to launch Steam without making any modifications;
